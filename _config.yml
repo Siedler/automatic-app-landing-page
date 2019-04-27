@@ -1,5 +1,5 @@
 # App Info
-ios_app_id                                :1423593835                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
+ios_app_id                                :1330693338                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
 
 appstore_link                             :                                           # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
 playstore_link                            :https://play.google.com/store/apps/details?id=com.sparsecreations.unblur                                          # Enter Google Play Store URL.
@@ -74,7 +74,7 @@ features                                  :
 
 
 # Theme Settings
-topbar_color                              :"#FAC17F"
+topbar_color                              : "#000000"
 topbar_transparency                       : 0.1
 topbar_title_color                        : "#ffffff"
 
